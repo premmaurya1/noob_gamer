@@ -61,9 +61,6 @@ public class MainActivity extends Activity {
 
         webView.loadUrl("https://html5.gamedistribution.com/63137d6d920145f68f3efddfe0f45675/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-3-xmas");  // HERE PASTE YOUR GAME URL
 
-        getDataPrem();
-    }
-    public void getDataPrem(){
-        Toast.makeText(this, "Hello my dear friends", Toast.LENGTH_SHORT).show();
+
     }
 }
